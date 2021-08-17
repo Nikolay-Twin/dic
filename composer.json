@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Abcsoft\\DIC\\": "vendor/nikolay-twin/DIC/src/",
+            "Abcsoft\\DIC\\": "vendor/nikolay-twin/DIC/src/"
         }
     }
 }
