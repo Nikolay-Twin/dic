@@ -7,12 +7,13 @@
             "email": "twin-ss@mail.ru"
         }
     ], 
+    "minimum-stability": "dev",
     "require": {
         "php": ">=7"
     },
     "autoload": {
         "psr-4": {
-            "Abcsoft\\DIC\\": "vendor/nikolay-twin/DIC/src/"
+            "Abcsoft\\DIC\\": "vendor/nikolay-twin/dic/src/"
         }
     }
 }
