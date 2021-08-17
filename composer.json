@@ -6,13 +6,13 @@
             "name": "Nicolay-Cherpinskiy",
             "email": "twin-ss@mail.ru"
         }
-    ],
+    ], 
     "require": {
         "php": ">=7"
     },
     "autoload": {
         "psr-4": {
-            "LeadGenerator\\": "src/"
+            "Abcsoft\\DIC\\": "vendor/nikolay-twin/DIC/src/",
         }
     }
 }
